@@ -3,8 +3,7 @@
 - Deep Learning CNN(Convolutional Neural Network) model for classification of image <br/>
 - Here the input image is Slide image containing blood drops added with respective antigen solution
 
--Sample Image of Input
 
      ![Sample Image](https://www.mdpi.com/applsci/applsci-11-05225/article_deploy/html/images/applsci-11-05225-g001-550.jpg)
     
-     
+- Sample Image of Input     
